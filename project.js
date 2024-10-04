@@ -38,6 +38,18 @@
 // const numberBet = getBet(balance ,numberOfLines)
  
 
-var arr = [12,13,45,65,756];
+//  function dipraj(){
+//     for(var i = 10 ; i<15 ; i++ ){
+//         console.log(i);      
+//     } 
+//     console.log(i);     
+//  }
 
-arr[1]
+//  dipraj()
+
+var obj = {
+    name: "harsh",
+    age: "18"
+}
+
+var dov = {...obj};
