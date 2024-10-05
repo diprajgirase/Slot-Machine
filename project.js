@@ -71,6 +71,7 @@ const spin = () => {
       symbols.push(symbol);
     }
   }
+ 
 
   const reels = [];
   for (let i = 0; i < COLS; i++) {
