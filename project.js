@@ -36,7 +36,7 @@
 // let balance = deposit();
 // const numberOfLines = getNumberOfLines();
 // const numberBet = getBet(balance ,numberOfLines)
- 
+
 
 //  function dipraj(){
 //     for(var i = 10 ; i<15 ; i++ ){
@@ -73,3 +73,20 @@
 // a.forEach(function(val){
 //     console.log(val+4)
 // })
+
+// var obj = {
+//     name:"harsh",
+//     age: 19,
+//     city:"shirpur"
+// }
+
+// for (var key in obj) {
+//     console.log(key)
+// }
+
+// var a = {
+//     name:"car",
+//     age:18
+// }
+ 
+//  delete a.age
