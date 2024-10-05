@@ -4,7 +4,6 @@ This is a simple **Slot Machine Game** created using HTML, CSS, and JavaScript. 
 
 ## 🚀 How It Works
 
-- The slot machine has **three reels**, each with different symbols (fruits, numbers, or emojis).
 - A **Spin** button is available to start the reels.
 - When clicked, the reels spin and stop randomly.
 - Depending on the combination of symbols, the player can win or lose points:
