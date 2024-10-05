@@ -68,3 +68,8 @@
 //     console.log("hello");
 // }
 
+// var a = [2,3,5,7,8,9,3,2,1]
+
+// a.forEach(function(val){
+//     console.log(val+4)
+// })
