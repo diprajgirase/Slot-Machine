@@ -47,9 +47,24 @@
 
 //  dipraj()
 
-var obj = {
-    name: "harsh",
-    age: "18"
-}
+// var obj = {
+//     name: "harsh",
+//     age: "18"
+// }
 
-var dov = {...obj};
+// var dov = {...obj};
+
+
+// if(0){
+// console.log("hey");
+// }
+// else if(0){
+//     console.log("hii")
+// }
+// else if(9){
+//     console.log("wow")
+// }
+// else{
+//     console.log("hello");
+// }
+
